@@ -1,2 +1,2 @@
 
-Doing my second commit second changes
+Doing my second commit second changes Updating after staging
